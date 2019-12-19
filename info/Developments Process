@@ -9,7 +9,11 @@ Developments Steps
 /***********************************************************************************************/
 
 ------------------------------ Prepare BD -----------------------------------------------
-0. Design the Database
-1.  Create Structure of Database
-2.  Export Structure of DataBase
+0.0. Design the Database
+0.1.  Create Structure of Database
+0.2.  Export Structure of DataBase
 
+
+------------------------------ Conect to BD -----------------------------------------------
+1.1. Conection with BD
+	inc/conn.php

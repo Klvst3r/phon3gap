@@ -24,6 +24,7 @@ SET time_zone = "+00:00";
 -- Host_DB:	 'localhost'
 -- Pass_BD:	 'desarrollo'
 -- Hoster:	 'https://www.000webhost.com/members/website/phon3gap/database'
+-- Name_BD	 'id11991505_phon3gap'
 
 -- --------------------------------------------------------
 
