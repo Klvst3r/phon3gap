@@ -21,4 +21,7 @@ Developments Steps
 ------------------------------ 2. Insert to BD -----------------------------------------------
 2.1. Insert Service
 	insert.php
-
+2.2. Update Service
+	update.php
+2.3. Delete Service
+	delete.php
