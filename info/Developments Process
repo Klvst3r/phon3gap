@@ -25,3 +25,6 @@ Developments Steps
 	update.php
 2.3. Delete Service
 	delete.php
+2.4. Select Service
+	select.php
+
